@@ -1,6 +1,7 @@
 # Final Project  Deep Learning  CS 7643 - Team Of Mice and Men
+Developed and written by: Emilio Moyers, Diana Lomelin, Jonothan Barton, Andres M Menendez.
 
-Developing a learning model to predict behaviors. Developed and written by: Emilio Moyers, Diana Lomelin, Jonothan Barton, Andres M Menendez.
+Full Project is private due to class policy. Please reach out to me for further interest: andmenendez@gmail.com
 
 ## Overview
 Behavior classifications are difficult and complex problems as the differences between two behaviors can be unnoticeable to even trained scientists. These identifications become particularly difficult when labeling video data as it’s very difficult for a human to determine when one behavior begins and ends on a frame-by-frame basis. Deep neural networks can solve this classification issue as they are more consistent and are unequivocally faster than any human. With a plethora of different available modules and tools, it can be difficult to design and train the right architecture for the right model. These networks will have to take into account the temporal nature of this behavior classification as a single behavior can best be identified through its context and not solely concerning a single frame. 
