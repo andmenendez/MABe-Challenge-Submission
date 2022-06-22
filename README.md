@@ -6,7 +6,7 @@ Full Project is private due to class policy. Please reach out to me for further 
 ## Overview
 Behavior classifications are difficult and complex problems as the differences between two behaviors can be unnoticeable to even trained scientists. These identifications become particularly difficult when labeling video data as it’s very difficult for a human to determine when one behavior begins and ends on a frame-by-frame basis. Deep neural networks can solve this classification issue as they are more consistent and are unequivocally faster than any human. With a plethora of different available modules and tools, it can be difficult to design and train the right architecture for the right model. These networks will have to take into account the temporal nature of this behavior classification as a single behavior can best be identified through its context and not solely concerning a single frame. 
 
-This repository contains the code used for Task1 and Task 3 for the AIcrowd Multi-Agent Behaviour Challenge (MABe). For more information about the implementation, please refer to the [paper](documents/Final_Project_CS_7643.pdf)](https://github.com/andmenendez/Final-Project-Deep-Learning-CS-7643---Team-Of-Mice-and-Men/blob/main/Final_Project_CS_7643.pdf).
+This repository contains the code used for Task1 and Task 3 for the AIcrowd Multi-Agent Behaviour Challenge (MABe). For more information about the implementation, please refer to the [paper](https://github.com/andmenendez/Final-Project-Deep-Learning-CS-7643---Team-Of-Mice-and-Men/blob/main/Final_Project_CS_7643.pdf).
 
 ## Original Test and Training sets
 
