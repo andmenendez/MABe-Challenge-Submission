@@ -38,5 +38,6 @@ In the next sections, you can find a brief description of the folder and importa
 ## Models and Rank links 
 
 * [Link](https://drive.google.com/drive/folders/1PUbMx9r1lN5rm3WlzD6nSW5IQnziznQa?usp=sharing) to some of our trained models. You can download them from the link provided if you want to verify or play with our experiments.
+* Best Performing Score [link](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications/problems/mabe-task-1-classical-classification/submissions/167477)
 * Links to AIcrowd submission board; the results we report on the paper: [Task 1](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications/problems/mabe-task-1-classical-classification/submissions) and [Task 3](https://www.aicrowd.com/challenges/multi-agent-behavior-representation-modeling-measurement-and-applications/problems/mabe-task-3-learning-new-behavior/submissions). The submissions for our team can be under the names: **andres_menendez**, **dianalomelin**, **emilio_moyers** or **gnodabb**.
 
